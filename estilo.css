@@ -6,6 +6,10 @@ text-align:center;
 background-color:purple;
 color:white;
 }
+h2{
+    background-color: blanchedalmond;
+    color:black;
+}
 body
 {
 background-image:url("fondo.jpg");
